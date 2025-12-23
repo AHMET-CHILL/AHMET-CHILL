@@ -80,6 +80,7 @@ Scalable product & category management system with hierarchical structure.<br/><
 🛠️ Next.js + REST API<br/>
 🔄 Drag & Drop Category Tree<br/>
 📈 Quality scoring & admin dashboard
+🔗 <a href="https://product-managment-frontend-smoky.vercel.app/">Live Demo</a>
 </p>
 
 ---
