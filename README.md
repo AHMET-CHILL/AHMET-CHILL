@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://ahmetenescil.com.tr" target="_blank">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ENES-LINKEDIN" target="_blank">LinkedIn</a> •
-  <a href="mailto:MAIL@MAIL.COM">Mail</a>
+  <a href="https://www.linkedin.com/in/ahmetenescil/" target="_blank">LinkedIn</a> •
+  <a href="mailto:ahmetcil02@gmail.com">Mail</a>
 </p>
 
 ---
@@ -82,5 +82,5 @@
 ## 📫 Contact
 
 - 🌐 Portfolio: https://ahmetenescil.com.tr  
-- 💼 LinkedIn: linkedin.com/in/ENES-LINKEDIN  
-- 📧 Mail: MAIL@MAIL.COM
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmetenescil/
+- 📧 Mail: ahmetcil02@gmail.com
