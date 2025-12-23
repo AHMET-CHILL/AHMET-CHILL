@@ -79,7 +79,7 @@ Full-stack leave management platform with role-based access and visual calendar.
 Scalable product & category management system with hierarchical structure.<br/><br/>
 🛠️ Next.js + REST API<br/>
 🔄 Drag & Drop Category Tree<br/>
-📈 Quality scoring & admin dashboard
+📈 Quality scoring & admin dashboard<br/><br/>
 🔗 <a href="https://product-managment-frontend-smoky.vercel.app/">Live Demo</a>
 </p>
 
