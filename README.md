@@ -66,7 +66,7 @@
 <p align="center">
 <b>🗓️ Annual Leave Management System</b><br/>
 Full-stack leave management platform with role-based access and visual calendar.<br/><br/>
-🛠️ React + Spring Boot<br/>
+🛠️ React + Node.js<br/>
 🔐 Role-based authorization<br/>
 📊 Dynamic leave balance calculation<br/><br/>
 🔗 <a href="https://people.pavza.net/">Live Demo</a>
