@@ -90,10 +90,10 @@ Scalable product & category management system with hierarchical structure.<br/><
 <b>🚕 TaksiMetrem</b><br/>
 Web-based taxi fare estimation platform covering all 81 provinces of Türkiye.<br/>
 Built to provide transparent, ad-free and accurate taxi cost calculations.<br/><br/>
-🛠️ React + TypeScript (Vite)  
-🎨 Tailwind CSS  
-🗺️ Province-based dynamic fare calculation logic  
-📡 Custom-built taxi fare data API (scraped & normalized)
+🛠️ React + TypeScript (Vite)<br/>
+🎨 Tailwind CSS<br/> 
+🗺️ Province-based dynamic fare calculation logic<br/>
+📡 Custom-built taxi fare data API (scraped & normalized)<br/><br/>
 🔗 <a href="https://taksimetrem.com.tr">Live Demo</a>
 </p>
 
