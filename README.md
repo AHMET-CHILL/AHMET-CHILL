@@ -83,6 +83,20 @@ Scalable product & category management system with hierarchical structure.<br/><
 🔗 <a href="https://product-managment-frontend-smoky.vercel.app/">Live Demo</a>
 </p>
 
+
+<br/>
+
+<p align="center">
+<b>🚕 TaksiMetrem</b><br/>
+Web-based taxi fare estimation platform covering all 81 provinces of Türkiye.<br/>
+Built to provide transparent, ad-free and accurate taxi cost calculations.<br/><br/>
+🛠️ Next.js + Node.js<br/>
+🗺️ Province-based dynamic pricing logic<br/>
+📡 Custom-built fare data API (scraped & normalized)<br/><br/>
+🔗 <a href="https://taksimetrem.com.tr">Live Demo</a>
+</p>
+
+
 ---
 
 
