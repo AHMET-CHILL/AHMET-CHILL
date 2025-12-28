@@ -69,7 +69,7 @@ Full-stack leave management platform with role-based access and visual calendar.
 🛠️ React + Node.js<br/>
 🔐 Role-based authorization<br/>
 📊 Dynamic leave balance calculation<br/><br/>
-🔗 <a href="https://people.pavza.net/">Live Demo</a>
+🔗 <a href="https://people.pavza.net/">Live</a>
 </p>
 
 <br/>
@@ -94,7 +94,7 @@ Built to provide transparent, ad-free and accurate taxi cost calculations.<br/><
 🎨 Tailwind CSS<br/> 
 🗺️ Province-based dynamic fare calculation logic<br/>
 📡 Custom-built taxi fare data API (scraped & normalized)<br/><br/>
-🔗 <a href="https://taksimetrem.com.tr">Live Demo</a>
+🔗 <a href="https://taksimetrem.com.tr">Live</a>
 </p>
 
 
