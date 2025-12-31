@@ -106,7 +106,7 @@ Focused on performance, modern UI, and responsive design across all devices.<br/
 🎨 Tailwind CSS<br/>
 📱 Fully responsive design (mobile, tablet, desktop)<br/>
 🧩 Modular and scalable component structure<br/><br/>
-🔗 <a href="https://corexsoft.com.tr/">Live Website</a>
+🔗 <a href="https://corexsoft.com.tr/">Live</a>
 </p>
 
 ---
