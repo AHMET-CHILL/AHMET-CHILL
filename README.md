@@ -104,7 +104,6 @@ Corporate website developed for a client to showcase their brand, services, and 
 Focused on performance, modern UI, and responsive design across all devices.<br/><br/>
 🛠️ Next.js + TypeScript<br/>
 🎨 Tailwind CSS<br/>
-⚡ SEO-friendly & high-performance architecture<br/>
 📱 Fully responsive design (mobile, tablet, desktop)<br/>
 🧩 Modular and scalable component structure<br/><br/>
 🔗 <a href="https://corexsoft.com.tr/">Live Website</a>
