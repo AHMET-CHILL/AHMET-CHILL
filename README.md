@@ -98,6 +98,24 @@ Built to provide transparent, ad-free and accurate taxi cost calculations.<br/><
 </p>
 
 
+<br\>
+
+<p align="center">
+<b>🌐 CorexSoft</b><br/>
+Corporate website developed for a client to present their brand, services, and digital solutions in a clean and professional way.<br/>
+Focused on performance, modern UI, and responsive design across all devices.<br/><br/>
+
+🛠️ Next.js + TypeScript<br/>
+🎨 Tailwind CSS<br/>
+⚡ SEO-friendly & high-performance architecture<br/>
+📱 Fully responsive design (mobile, tablet, desktop)<br/>
+🧩 Modular and scalable component structure<br/><br/>
+
+🔗 <a href="https://corexsoft.com.tr/">Live Website</a>
+</p>
+
+
+
 ---
 
 
