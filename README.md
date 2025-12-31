@@ -14,10 +14,10 @@
 
 <p align="center">
 🎓 Computer Engineering graduate with strong familiarity in <b>defense industry culture</b>.<br/><br/>
-💻 Focused on <b>Full-Stack Development</b> with a strong emphasis on <b>Backend Systems</b>.<br/>
-⚙️ Interested in <b>System Design, Scalable Applications & Enterprise Software</b>.<br/>
-🛡️ Career goal: <b>Defense Industry & Mission-Critical Systems</b>.<br/>
-🚀 Actively building real-world, production-oriented projects.
+💻 Specialized in <b>Full-Stack Development</b>, with a strong focus on <b>backend systems</b> and business logic.<br/>
+⚙️ Interested in <b>system design, scalable architectures, and enterprise software</b>.<br/>
+🛡️ Career goal: contributing to <b>mission-critical systems</b> within the defense industry.<br/>
+🚀 Actively building production-oriented, real-world applications.
 </p>
 
 ---
@@ -65,10 +65,10 @@
 
 <p align="center">
 <b>🗓️ Annual Leave Management System</b><br/>
-Full-stack leave management platform with role-based access and visual calendar.<br/><br/>
+Full-stack leave management platform with role-based access control and a visual calendar system.<br/><br/>
 🛠️ React + Node.js<br/>
 🔐 Role-based authorization<br/>
-📊 Dynamic leave balance calculation<br/><br/>
+📊 Dynamic leave balance calculations<br/><br/>
 🔗 <a href="https://people.pavza.net/">Live</a>
 </p>
 
@@ -76,49 +76,41 @@ Full-stack leave management platform with role-based access and visual calendar.
 
 <p align="center">
 <b>📦 Product Management / PIM System</b><br/>
-Scalable product & category management system with hierarchical structure.<br/><br/>
+Scalable product and category management system with a hierarchical structure.<br/><br/>
 🛠️ Next.js + REST API<br/>
-🔄 Drag & Drop Category Tree<br/>
+🔄 Drag & Drop category tree<br/>
 📈 Quality scoring & admin dashboard<br/><br/>
 🔗 <a href="https://product-managment-frontend-smoky.vercel.app/">Live Demo</a>
 </p>
-
 
 <br/>
 
 <p align="center">
 <b>🚕 TaksiMetrem</b><br/>
 Web-based taxi fare estimation platform covering all 81 provinces of Türkiye.<br/>
-Built to provide transparent, ad-free and accurate taxi cost calculations.<br/><br/>
+Designed to provide transparent, ad-free, and accurate taxi fare calculations.<br/><br/>
 🛠️ React + TypeScript (Vite)<br/>
-🎨 Tailwind CSS<br/> 
+🎨 Tailwind CSS<br/>
 🗺️ Province-based dynamic fare calculation logic<br/>
 📡 Custom-built taxi fare data API (scraped & normalized)<br/><br/>
 🔗 <a href="https://taksimetrem.com.tr">Live</a>
 </p>
 
-
-<br\>
+<br/>
 
 <p align="center">
 <b>🌐 CorexSoft</b><br/>
-Corporate website developed for a client to present their brand, services, and digital solutions in a clean and professional way.<br/>
+Corporate website developed for a client to showcase their brand, services, and digital solutions.<br/>
 Focused on performance, modern UI, and responsive design across all devices.<br/><br/>
-
 🛠️ Next.js + TypeScript<br/>
 🎨 Tailwind CSS<br/>
 ⚡ SEO-friendly & high-performance architecture<br/>
 📱 Fully responsive design (mobile, tablet, desktop)<br/>
 🧩 Modular and scalable component structure<br/><br/>
-
 🔗 <a href="https://corexsoft.com.tr/">Live Website</a>
 </p>
 
-
-
 ---
-
-
 
 <h2 align="center">📫 Contact</h2>
 
